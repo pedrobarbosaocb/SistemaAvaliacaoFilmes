@@ -1,0 +1,12 @@
+E:\Cast\Projetos\AtividadeAvaliativa2\SistemaAvalFilmes\bin\Debug\SistemaAvalFilmes.exe.config
+E:\Cast\Projetos\AtividadeAvaliativa2\SistemaAvalFilmes\bin\Debug\SistemaAvalFilmes.exe
+E:\Cast\Projetos\AtividadeAvaliativa2\SistemaAvalFilmes\bin\Debug\SistemaAvalFilmes.pdb
+E:\Cast\Projetos\AtividadeAvaliativa2\SistemaAvalFilmes\obj\Debug\SistemaAvalFilmes.csproj.AssemblyReference.cache
+E:\Cast\Projetos\AtividadeAvaliativa2\SistemaAvalFilmes\obj\Debug\SistemaAvalFilmes.csproj.SuggestedBindingRedirects.cache
+E:\Cast\Projetos\AtividadeAvaliativa2\SistemaAvalFilmes\obj\Debug\SistemaAvalFilmes.Properties.Resources.resources
+E:\Cast\Projetos\AtividadeAvaliativa2\SistemaAvalFilmes\obj\Debug\SistemaAvalFilmes.csproj.GenerateResource.cache
+E:\Cast\Projetos\AtividadeAvaliativa2\SistemaAvalFilmes\obj\Debug\SistemaAvalFilmes.csproj.CoreCompileInputs.cache
+E:\Cast\Projetos\AtividadeAvaliativa2\SistemaAvalFilmes\obj\Debug\SistemaAvalFilmes.exe
+E:\Cast\Projetos\AtividadeAvaliativa2\SistemaAvalFilmes\obj\Debug\SistemaAvalFilmes.pdb
+E:\Cast\Projetos\AtividadeAvaliativa2\SistemaAvalFilmes\obj\Debug\SistemaAvalFilmes.Form1.resources
+E:\Cast\Projetos\AtividadeAvaliativa2\SistemaAvalFilmes\obj\Debug\SistemaAvalFilmes.FormFilmeRemovido.resources
